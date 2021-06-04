@@ -8634,7 +8634,7 @@ input, select, textarea {
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 18em;}
+  to{width: 21em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,.75);}
